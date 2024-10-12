@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kighFKVBNocHeD1ONYbp9RKEoMekBlnWomPChAue0lQ=",
+  "Source": "BlazorCrub.Server",
+  "BasePath": "_content/BlazorCrub.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
